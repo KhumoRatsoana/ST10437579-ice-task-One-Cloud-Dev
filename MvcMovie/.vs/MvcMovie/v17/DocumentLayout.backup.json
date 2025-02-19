@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|c:\\users\\khumo\\onedrive\\documents\\github\\st10437579-ice-task-one-cloud-dev\\mvcmovie\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C17A4-4F64-43C8-8348-32F88055D4A9}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T19:00:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T18:42:51.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T18:14:26.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController1.cs",
               "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Controllers\\HomeController1.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HomeController1.cs",
               "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Controllers\\HomeController1.cs",
               "RelativeToolTip": "MvcMovie\\Controllers\\HomeController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T17:41:51.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T18:46:36.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\khumo\\OneDrive\\Documents\\GitHub\\ST10437579-ice-task-One-Cloud-Dev\\MvcMovie\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:34:20.513Z",
               "EditorCaption": ""
             }
           ]

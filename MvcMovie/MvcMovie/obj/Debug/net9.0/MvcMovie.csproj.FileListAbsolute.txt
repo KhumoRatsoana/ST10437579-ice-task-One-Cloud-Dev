@@ -194,3 +194,4 @@ C:\Users\khumo\OneDrive\Documents\GitHub\ST10437579-ice-task-One-Cloud-Dev\MvcMo
 C:\Users\khumo\OneDrive\Documents\GitHub\ST10437579-ice-task-One-Cloud-Dev\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\khumo\OneDrive\Documents\GitHub\ST10437579-ice-task-One-Cloud-Dev\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\khumo\OneDrive\Documents\GitHub\ST10437579-ice-task-One-Cloud-Dev\MvcMovie\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+C:\Users\khumo\OneDrive\Documents\GitHub\ST10437579-ice-task-One-Cloud-Dev\MvcMovie\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
